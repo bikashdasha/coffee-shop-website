@@ -3,7 +3,7 @@
 A simple, visually appealing coffee shop landing page built with HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
-> Coming soon — or upload to [GitHub Pages](https://pages.github.com/) to make it live!
+> Coming soon — or upload to [http://bikashdasha.github.io/coffee-shop-website/) to make it live!
 
 ## 📸 Screenshots
 ![screenshot](screenshot.png) *(add your screenshot here if available)*
